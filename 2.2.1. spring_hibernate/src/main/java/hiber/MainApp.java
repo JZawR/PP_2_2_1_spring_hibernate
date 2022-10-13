@@ -29,6 +29,8 @@ public class MainApp {
          System.out.println();
       }
 
+      System.out.println("Commit");
+
       context.close();
    }
 }
